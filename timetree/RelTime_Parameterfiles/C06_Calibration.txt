@@ -1,0 +1,2 @@
+!MRCA='mrca_C06_1' TaxonA='I9253_2_70' TaxonB='I9274_2_91' MinTime=3.070000 MaxTime=12.740000 calibrationName='C06 MRCA 1  '
+!MRCA='mrca_C06_2' TaxonA='I9101_1_12' TaxonB='I9229_2_46' MinTime=1.350000 MaxTime=7.910000 calibrationName='C06 MRCA 2  '
