@@ -1,1 +1,2 @@
-# T37_Tropheini_Singh-et-al (in review)
+Singh et al 2022 Ecology and Evolution 
+Tropheini phylogenomics
